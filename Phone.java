@@ -34,9 +34,7 @@ public class Phone {
     }
 
 
-    public static boolean print(Phone phone) {
-        return false;
-    }
+    
 
 
     
